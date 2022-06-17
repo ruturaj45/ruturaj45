@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ruturaj45
+- 👀 I’m interested in website design,interface design,app devlopement etc.
+- 🌱 I’m currently learning BSc.Computer Science {C/C++,Java,Python,Html/Css/Javascript}
+- 💞️ I’m looking to collaborate on ...
+- 📫 My email : azadpradhan1234@gmail.com
